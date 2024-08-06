@@ -1,0 +1,15 @@
+selenium
+numpy
+pandas
+sklearn
+tqdm
+accelerate
+mlflow
+packaging
+ninja
+bitsandbytes
+flash-attn
+torch
+transformers
+plotly
+kaleido
